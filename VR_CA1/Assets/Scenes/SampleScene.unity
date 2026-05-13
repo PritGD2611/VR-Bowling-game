@@ -448,7 +448,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -637,7 +637,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -826,7 +826,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -1167,7 +1167,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -2188,7 +2188,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -2759,7 +2759,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -3185,7 +3185,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -4567,7 +4567,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -4953,7 +4953,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -5240,6 +5240,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 541019576}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &545526127 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1670256625, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+  m_PrefabInstance: {fileID: 786726318}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &551166608
 GameObject:
   m_ObjectHideFlags: 0
@@ -5367,7 +5372,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -5851,7 +5856,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -6040,7 +6045,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -6538,7 +6543,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -7470,7 +7475,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -7953,7 +7958,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 1670256625, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2024808240}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1717954561962503725, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       insertIndex: -1
@@ -9055,7 +9063,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -9244,7 +9252,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -9657,7 +9665,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -10091,7 +10099,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -10280,7 +10288,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -10889,6 +10897,75 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BowlingPin
   fallenAngleThreshold: 45
+--- !u!1001 &1041213768
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 545526127}
+    m_Modifications:
+    - target: {fileID: 1787346994484839025, guid: ad818c36731146e994540a1896ad8f24, type: 3}
+      propertyPath: m_Name
+      value: Ray Interactor
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888765399538998960, guid: ad818c36731146e994540a1896ad8f24, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.39957553
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888765399538998960, guid: ad818c36731146e994540a1896ad8f24, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.075415134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888765399538998960, guid: ad818c36731146e994540a1896ad8f24, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 42.44201
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888765399538998960, guid: ad818c36731146e994540a1896ad8f24, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888765399538998960, guid: ad818c36731146e994540a1896ad8f24, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888765399538998960, guid: ad818c36731146e994540a1896ad8f24, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888765399538998960, guid: ad818c36731146e994540a1896ad8f24, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888765399538998960, guid: ad818c36731146e994540a1896ad8f24, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888765399538998960, guid: ad818c36731146e994540a1896ad8f24, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888765399538998960, guid: ad818c36731146e994540a1896ad8f24, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7462879561657043759, guid: ad818c36731146e994540a1896ad8f24, type: 3}
+      propertyPath: m_UIScrollInput.m_InputActionReference
+      value: 
+      objectReference: {fileID: -6756787485274679044, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    - target: {fileID: 7462879561657043759, guid: ad818c36731146e994540a1896ad8f24, type: 3}
+      propertyPath: m_UIPressInput.m_InputActionReferenceValue
+      value: 
+      objectReference: {fileID: -5908353012961274365, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    - target: {fileID: 7462879561657043759, guid: ad818c36731146e994540a1896ad8f24, type: 3}
+      propertyPath: m_UIPressInput.m_InputActionReferencePerformed
+      value: 
+      objectReference: {fileID: 3279264004350380116, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad818c36731146e994540a1896ad8f24, type: 3}
 --- !u!1 &1078977216
 GameObject:
   m_ObjectHideFlags: 0
@@ -11271,7 +11348,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -11719,7 +11796,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -11908,7 +11985,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -12300,7 +12377,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -12805,7 +12882,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -12994,7 +13071,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -13295,7 +13372,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -13906,7 +13983,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -14850,7 +14927,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -15834,7 +15911,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -17100,7 +17177,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BowlingBall
   pinTarget: {fileID: 1822755028}
   rollSpeed: 100
-  stopForcingDistance: 0.001
+  stopForcingDistance: 2
   validGroundTags:
   - Ground
   - Floor
@@ -19068,6 +19145,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1297257284}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &2024808240 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5888765399538998960, guid: ad818c36731146e994540a1896ad8f24, type: 3}
+  m_PrefabInstance: {fileID: 1041213768}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2031346969
 GameObject:
   m_ObjectHideFlags: 0
